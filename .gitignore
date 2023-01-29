@@ -1,0 +1,6 @@
+.project_gopath
+.idea
+cs-modules
+coverage.*
+cover.out
+*.test
