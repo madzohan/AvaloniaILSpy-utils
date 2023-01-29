@@ -8,7 +8,7 @@
      - produce `~/some_dir/cs-modules` directory with all classes stored separately
        - written on Go pure channels, so should be fast enough 😊
    - Installation:
-     - get the latest linux x86_64 binary
+     - [get the latest linux x86_64 binary](https://github.com/madzohan/AvaloniaILSpy-utils/releases/download/1.0.0/modules_separator)
      - or build it yourself using `cd ilspy_utils/cmd/modules_separator/main && go build -o modules_separator`
 
 ___
